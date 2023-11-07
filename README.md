@@ -27,6 +27,3 @@ username: user
 
 password: userpass
 
-
-s
-
